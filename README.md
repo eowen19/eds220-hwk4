@@ -6,7 +6,10 @@ A repositiory to house the work for EDS220: Working with Environmental Data - Ho
 In early January of 2025, the Eaton and Palisades fires burned through portions of Los Angeles county, destroying many residences and leaving communities realing in the aftermath. This notebook looks at the fire perimeters of both fires, as well as a Landsat8 image captured on 23 February 2025. The fire perimeters, when combined with the Landsat8 image, show the burn scars of the two fires. The final map is produced as a false-colour composite to better highlight the burn scars in comparision to the surrounding vegetation. 
 
 ## Repository Structure
-
+    README.md
+    hwk4-task2-false-colour-OWEN.ipynb
+    .gitignore
+        data
 
 ## Data
 The fire perimeters for the Eaton and Palisades fires can be found within this repository within the `data/` folders. Additionally, the perimeters can be found at: https://data.lacounty.gov/maps/ad51845ea5fb4eb483bc2a7c38b2370c/about 
